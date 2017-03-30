@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!main.py
+!dict-to-csv.py
+!README.md
